@@ -1,0 +1,10 @@
+{
+  "name"         : "todo",
+  "version"      : "0.0.0",
+  "description"  : "Simple todo application.",
+  "main"         : "server.js",
+  "author"       : "Sergy P",
+  "dependencies" : {
+    "express"    : "~4.7.2"
+    }
+}
